@@ -23,7 +23,6 @@
     <img alt="Join the community on GitHub Discussions" src="https://img.shields.io/badge/Join%20the%20community-on%20GitHub%20Discussions-blue">
   </a>
 </p>
-
 <p align=center>The Official BikeTag component library for Vue 3.</p>
 
 ## 🚀 Installation

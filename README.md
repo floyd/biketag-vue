@@ -23,7 +23,6 @@
     <img alt="Join the community on GitHub Discussions" src="https://img.shields.io/badge/Join%20the%20community-on%20GitHub%20Discussions-blue">
   </a>
 </p>
-
 <p align=center>The Official BikeTag component library for Vue 3.</p>
 
 ## 🚀 Installation
@@ -88,9 +87,6 @@ You will need to modify your hosts file to include at least one entry for testin
 The BikeTag APP does not require any special configuration in order to run the site in read-only mode. You will not be able to upload images to a given game, but you can see all of the content of the available games at biketag.org.
 
 ### Adding credentials for uploading/editing content
-
-Below you will find some of the primary settings for testing all features of the BikeTag App. You can find all of the [configuration values in the wiki](https://github.com/KenEucker/biketag-vue/wiki/Configuration).
-</div>
 
 <div align="center">
 

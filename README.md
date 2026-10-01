@@ -89,36 +89,6 @@ The BikeTag APP does not require any special configuration in order to run the s
 
 ### Adding credentials for uploading/editing content
 
-Below you will find some of the primary settings for testing all features of the BikeTag App. You can find all of the [configuration values in the wiki](https://github.com/KenEucker/biketag-vue/wiki/Configuration).
-</div>
-
-```sh
-#.env
-# Used for internal authentication
-ADMIN_EMAIL=admin@email.com
-HOST_KEY=anythingyouwantititobe
-CLIENT_KEY=BIKETAGACCESSKEY
-# Used for uploading new BikeTag posts
-IMGUR_CLIENT_ID=IMGURCLIENTID
-IMGUR_CLIENT_SECRET=IMGURCLIENTSECRET
-IMGUR_REFRESH_TOKEN=IMGURCLIENTREFRESH
-IMGUR_ADMIN_REFRESH_TOKEN=IMGURADMINREFRESH
-# Used for google maps integration
-GOOGLE_API_KEY=GOOGLEAPIKEY
-# Used for BikeTag Player and BikeTag Ambassador logins
-AUTH0_CLIENT_ID=AUTH0CLIENTID
-AUTH0_DOMAIN=AUTH0DOMAIN
-AUTH0_TOKEN=AUTH0TOKEN
-AUTH0_AUDIENCE=AUTH0AUDIENCE
-# Used for automated image screening (backend-only; never expose to frontend)
-RF_KEY=ROBOFLOWAPIKEY
-# Optional aliases/overrides for screening
-ROBOFLOW_API_KEY=ROBOFLOWAPIKEY
-RF_WORKSPACE=bikes-workspace-6t0na
-RF_WORKFLOW=bicycle-no-selfie-screening-api
-# Optional Roboflow HTTP timeout in ms (default 120000; runs in screen-background)
-RF_TIMEOUT_MS=120000
-```
 <div align="center">
 
 ## Credits
